@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @verunda
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning JavaScript, after that I am moving to React and Tailwind CSS
 - 😄 Pronouns: I am she.
 - ⚡ Fun fact: I though for over ten years, that coding is boring. Jokes on me.
